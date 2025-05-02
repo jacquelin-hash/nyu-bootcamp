@@ -1,0 +1,39 @@
+1. How do you assess the statistical significance of an insight?
+You determine whether or not the outcome is probably the result of chance. 
+Typically, a p-value is computed to accomplish this. A p-value of less than
+0.05 indicates that the outcome is statistically significant and unlikely 
+to have occurred by accident.
+
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+According to the Central Limit Theorem, even if the initial data is not normal,
+the average of a large enough sample will have a normal (bell-shaped) curve. 
+It's crucial since it enables us to apply standard techniques for a variety of data kinds.
+
+3. What is the statistical power?
+The likelihood that a test will accurately identify a true effect is known as statistical 
+power. A study is good at identifying differences when they actually exist if it has high power. 
+It relies on factors like the size of the effect and the sample size.
+
+4. How do you control for biases?
+One way to mitigate bias is to randomly assign participants to a research.
+Employing control groups.
+Blinding, or concealing information from participants
+or researchers.
+Thoroughly cleaning your data.
+Making adjustments for additional analytic variables.
+
+5. What are confounding variables?
+Something that influences both the object of the test and the result is known as a confusing variable. 
+It may lead you to believe that there is a relationship when in fact there isn't. For instance, 
+swimming and ice cream sales can both rise in hot weather, giving the impression that consuming 
+ice cream induces swimming.
+
+6. What is A/B testing?
+A/B testing is the process of comparing two iterations of a product 
+to determine which performs better. One group is shown one version at random, 
+and another group is shown the other version. The outcomes are then compared.
+
+7. What are confidence intervals?
+A confidence interval gives a range where you expect the true answer to fall. 
+Like a 95% confidence interval means you’re 95% sure the true value is in that range. 
+It helps you understand how exact your estimate is.
